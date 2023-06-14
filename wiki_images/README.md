@@ -11,3 +11,4 @@ This folder contains only images for Git Wiki!
 <img width="471" alt="git log" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/b6511fbf-890e-4c44-9ded-d2b2d171e407">
 <img width="473" alt="git status" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/8789600c-1174-454a-b38d-b756173922b8">
 <img width="862" alt="modified files " src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/86084efa-60ef-4edd-a534-8c8fb9a8ac8b">
+<img width="786" alt="git diff" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/5c7c734c-a0a4-4ca4-8251-0b075f7b5968">
