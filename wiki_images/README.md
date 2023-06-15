@@ -48,6 +48,21 @@ This folder contains only images for Git Wiki!
 <img width="464" alt="git show HEAD" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/8135028d-1ab4-4384-ab83-73e328e46b15">
 
 
+
 <img width="379" alt="create,switch,delete branch" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/6042dd3b-f2a9-44d9-ba6b-11b28c1f64b0">
+
+<img width="606" alt="switch to feature and work" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/a34b6b25-f989-4935-b0f1-1f09b14a8c8b">
+
+<img width="728" alt="switch to feature and work2" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/1f226007-2f4b-4d7a-9d9a-97a38b6fdb63">
+
+<img width="738" alt="switch to master" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/036dcee5-231f-4f05-b0b3-9960a2d73eae">
+
+<img width="736" alt="merge" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/d68794ac-5948-437e-81e9-09015cca9476">
+
+
+
+
+
+
 
 
