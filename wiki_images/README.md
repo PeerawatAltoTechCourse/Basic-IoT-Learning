@@ -48,3 +48,6 @@ This folder contains only images for Git Wiki!
 <img width="464" alt="git show HEAD" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/8135028d-1ab4-4384-ab83-73e328e46b15">
 
 
+<img width="379" alt="create,switch,delete branch" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/6042dd3b-f2a9-44d9-ba6b-11b28c1f64b0">
+
+
