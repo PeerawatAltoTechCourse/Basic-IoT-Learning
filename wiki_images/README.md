@@ -59,9 +59,7 @@ This folder contains only images for Git Wiki!
 
 <img width="736" alt="merge" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/d68794ac-5948-437e-81e9-09015cca9476">
 
-
-
-
+<img width="224" alt="master" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/ae77e3a1-5294-40c7-b9d5-5e91322dc572">
 
 
 
