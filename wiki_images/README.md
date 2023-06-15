@@ -45,3 +45,6 @@ This folder contains only images for Git Wiki!
 <img width="473" alt="nano file" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/bc0dae08-69c5-429e-8c31-9fc0387cb267">
 
 
+<img width="464" alt="git show HEAD" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/8135028d-1ab4-4384-ab83-73e328e46b15">
+
+
