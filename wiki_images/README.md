@@ -67,3 +67,20 @@ This folder contains only images for Git Wiki!
 
 
 
+
+<img width="897" alt="test2" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/e1e235ea-c563-4a4e-aa30-4f32b3f24ba2">
+
+<img width="472" alt="git remote add original" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/7690226f-f5a4-4a0e-b6c5-51094ce35b2c">
+
+<img width="466" alt="git push -u origin(remote repo name) main(local branch)" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/b47377ce-d300-44e8-986a-89de76225caa">
+
+<img width="678" alt="test2 2" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/341af1ab-b631-4ca8-a2e6-9e3322c7b415">
+
+<img width="470" alt="check commit" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/a278d26c-5e8a-41eb-a5df-7f18a5253cc5">
+
+
+
+
+
+
+
