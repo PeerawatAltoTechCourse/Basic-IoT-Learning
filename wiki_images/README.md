@@ -79,6 +79,11 @@ This folder contains only images for Git Wiki!
 <img width="470" alt="check commit" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/a278d26c-5e8a-41eb-a5df-7f18a5253cc5">
 
 
+<img width="960" alt="edit on remote " src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/fa38364c-17f4-40d9-b4ad-ddac46d044fd">
+
+<img width="795" alt="git pull" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/3c22cb97-da97-4251-ab65-92fc2a9b4563">
+
+
 
 
 
