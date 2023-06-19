@@ -84,7 +84,14 @@ This folder contains only images for Git Wiki!
 <img width="795" alt="git pull" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/3c22cb97-da97-4251-ab65-92fc2a9b4563">
 
 
+<img width="685" alt="call a object to do a function of class " src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/cabb28e2-9688-4d36-9fe5-d9a9664c1c37">
 
+
+
+<img width="693" alt="attribute" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/f21656c7-a436-4520-bcc6-6f55c9cc5ca6">
+
+
+<img width="456" alt="attribute2" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/b98e6caa-515e-431a-b005-5f6378488b8e">
 
 
 
