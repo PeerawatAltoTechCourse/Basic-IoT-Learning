@@ -94,5 +94,13 @@ This folder contains only images for Git Wiki!
 <img width="456" alt="attribute2" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/b98e6caa-515e-431a-b005-5f6378488b8e">
 
 
+<img width="663" alt="constructor3" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/d38250fc-2abd-4d4b-b637-9f6019dad878">
+
+
+<img width="663" alt="constructor3" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/95aee1bd-5b1b-40ae-b405-645ff67f03c8">
+
+
+<img width="526" alt="isinstance" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/cab07c9b-0b13-4ea3-a4bb-6eddb8695905">
+
 
 
