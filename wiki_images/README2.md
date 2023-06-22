@@ -6,5 +6,6 @@
 
 
 
+<img width="419" alt="class" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/0665f8c4-88ed-4572-8d1b-86915cf5bcd1">
 
 
