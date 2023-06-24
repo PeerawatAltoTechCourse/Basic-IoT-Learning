@@ -22,4 +22,19 @@
 <img width="805" alt="polyOverload" src="https://github.com/PeerawatAltoTechCourse/Test/assets/132571902/7088a6b1-9bb4-4654-a5c0-4c854d85b72f">
 
 
+<img width="283" alt="cd" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/b1d15c63-fd79-4331-80bc-b528458d1dc0">
+<img width="939" alt="code dot vscode" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/8d6a5e1b-ad51-448a-bc04-21e23ed8db84">
+<img width="613" alt="explorer dot" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/c09c059e-1992-40a2-adff-8fce4fb1fda4">
+
+<img width="920" alt="dir" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/8f3b00ba-f471-4695-b89d-58e4e56c4068">
+<img width="719" alt="dir attribute dir" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/237d5836-42bd-4f97-8b18-89e410689425">
+<img width="311" alt="dir find file" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/c1894346-8f8e-4bc9-97d9-241703ad0080">
+<img width="314" alt="dir start with" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/970aa375-fa35-46f0-8e5a-0cbbea8232d1">
+
+<img width="680" alt="create file 1" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/85865842-767f-44b8-bc87-6d7349b5d552">
+<img width="309" alt="del" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/7fddf50e-19da-4912-afd3-85762dfb9437">
+
+
+
+
 
