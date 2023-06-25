@@ -35,6 +35,18 @@
 <img width="309" alt="del" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/7fddf50e-19da-4912-afd3-85762dfb9437">
 
 
+<img width="298" alt="rename" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/97a84e37-de79-4480-a548-43d5eb1ebc41">
+<img width="309" alt="copy" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/62625fa5-de6e-436e-9d5b-7aa665a66099">
+<img width="289" alt="copy2" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/6b4153e7-7f70-4e1c-af81-07e460b7978a">
+
+<img width="553" alt="remove dir subfolder" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/f2b45f9d-ac0b-4593-bb12-d0f2819375f3">
+<img width="762" alt="move" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/f23355c8-684c-47cd-90a9-95f763820536">
+
+<img width="258" alt="tree" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/38440e26-9313-4e63-8c59-70e35c87b964">
+<img width="363" alt="xcopy" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/66dae0d8-55b8-429a-bb0f-3a65a61eece2">
+
+<img width="399" alt="help" src="https://github.com/PeerawatAltoTechCourse/Basic-IoT-Learning/assets/132571902/d268ac72-ba18-42ee-86cb-c1d9a9e82bf8">
+
 
 
 
